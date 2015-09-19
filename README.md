@@ -13,3 +13,4 @@ How to run:
 - patch -p1  < wifi-infra-handoff.patch
 - cp wifi-infra-handoff.cc scratch 
 - ./waf --run wifi-infra-handoff
+- wifi-5-1.pcap shows traffic at the station 
